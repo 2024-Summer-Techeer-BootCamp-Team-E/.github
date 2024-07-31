@@ -96,7 +96,7 @@
 ## 🔑 ERD
 <p align="left">
 <!--ERD 사진-->
-<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/ed4dd8eb-1d5c-40dd-bce1-66d295cfdcc8">
+<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/ERD.png">
 </p>
 
 ## 💻 Tech Stack
