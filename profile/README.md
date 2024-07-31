@@ -74,9 +74,9 @@
 
 ### 관심있는 상품 좋아요 <br>
 - 관심있는 상품을 좋아요 버튼을 통해 나의 좋아요 목록에 저장해 보세요. 
-<!--상품 좋아요 버튼 클릭-->>
+<!--상품 좋아요 버튼 클릭-->
 <img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/d34019d1-2791-47f9-8335-afdbd1e8e15e">
-<!--좋아요 페이지-->>
+<!--좋아요 페이지-->
 <img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/d34019d1-2791-47f9-8335-afdbd1e8e15e">
 <br>
 <br>
