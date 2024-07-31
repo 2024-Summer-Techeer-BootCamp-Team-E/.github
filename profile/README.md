@@ -141,9 +141,9 @@
 <!--ALI 이미지-->
 <img width="1212" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/api_list.png"><br>
 
-| Calendars API | Diaries API |Members API|Static API|                                                                                                                                                                             
-|---------------|-------------|--|----|
-| api/v1/calendars/ : 캘린더 조회 <br>api/v1/calendars/stickers : 캘린더 꾸미기 및 캘린더 생성  |   api/diaries/: 일기 배경지 선택 및 생성<br>api/diaries/link: 작성중인 일기 및 일기링크 조회.<br>api/diaries/save: 일기 최종저장.<br>api/diaries/stickers: 텍스트박스에서 키워드 추출 후 스티커 생성<br>api/diaries/<int:diary_id>: 일기 목록 조회          |api/v1/members/login : 사용자 정보 확인, 로그인<br>api/v1/members/logout: 로그아웃<br>api/v1/members/signuo : 회원가입|api/v1/static/stickers : 캘린더 및 다이어리 기본 배경지 조회|
+| Accounts API | Likes API |Products API|                                                                                                                                                                              
+|---------------|-------------|--|
+| api/v1/accounts/login/ : 로그인 <br>api/v1/accounts/register/ : 회원가입<br>api/v1/accounts/token/ :  |   api/v1/likes/ :  |api/v1/products/info/ : |
 
 
 
