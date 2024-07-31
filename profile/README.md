@@ -1,6 +1,6 @@
 <h3> Team E </h3>
 <div align=center>
-<img src="https://i.ibb.co/HqnmmSJ/2024-06-11-10-25-51.png"/>
+<p>사진</p>
 <h4>소개-알뜰살뜰</h4>
 <h5>2024.0.-2024.0.</h5>
 <h4>사이트 주소</h4>
@@ -221,32 +221,32 @@
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16" width="80" height="80">
+                <p>사진</p>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jeonghyeon178">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/eb3564a1-9f01-4fa9-8a43-ff44f97c58b4" width="80" height="80">
+                <p>사진</p>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/ef544592-e67f-4567-9639-b93bc0a138af" width="80" height="80">
+                <p>사진</p>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/jinoo0306">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/9ddb363e-29a0-44f8-9731-f04e76e6fd34" width="80" height="80">
+                <p>사진</p>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/jung2941">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/262452e5-e421-4ca2-8cc3-dc3b818ec460" width="80" height="80">
+                <p>사진</p>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Ahnnakyung">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/198d76c0-194d-47c3-aa12-c099478bb33a" width="80" height="80">
+               <p>사진</p>
             </a>
         </td>
     </tr>
