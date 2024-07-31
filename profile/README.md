@@ -143,7 +143,7 @@
 
 | Accounts API | Likes API |Products API|                                                                                                                                                                              
 |---------------|-------------|--|
-| api/v1/accounts/login/ : 로그인 <br>api/v1/accounts/register/ : 회원가입<br>api/v1/accounts/token/ :  |   api/v1/likes/ :  |api/v1/products/info/ : |
+| api/v1/accounts/login/ : 로그인 <br>api/v1/accounts/register/ : 회원가입<br>api/v1/accounts/token/ : 엑세스 토큰 재발급 |   api/v1/likes/ : 좋아요 상품 조회/등록/삭제 |api/v1/products/info/ : 상품 추출 및 비교 |
 
 
 
