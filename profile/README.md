@@ -90,13 +90,13 @@
 ## 🛠 ️System Architecture
 <p align="left">
 <!--시스템 아키텍처 사진-->
-<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/121246589/1f520c57-1be1-4c12-af1d-bbf38cbe5c9a">
+<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/system_architecture.png">
 </p>
 
 ## 🔑 ERD
 <p align="left">
 <!--ERD 사진-->
-<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/ERD.png">
+<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/erd.png">
 </p>
 
 ## 💻 Tech Stack
@@ -139,7 +139,7 @@
 
 ### 상품 정보 추출, 상품 좋아요, 유저 관련 API
 <!--ALI 이미지-->
-<img width="1212" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/04c0b52f-2aeb-4acd-a1fc-29e8634a676c"><br>
+<img width="1212" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/api_list.png"><br>
 
 | Calendars API | Diaries API |Members API|Static API|                                                                                                                                                                             
 |---------------|-------------|--|----|
