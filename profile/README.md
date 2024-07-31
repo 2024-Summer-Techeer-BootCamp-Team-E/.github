@@ -117,16 +117,16 @@
 
 | **Category**           | **Technologies**                                           |
 |------------------------|------------------------------------------------------------|
-| **Frontend**           | Vite, JavaScript, React, Zustand, Styled-Components, Prettier, Eslint |
-| **Backend**            | Django, MySQL, Redis, Channels, Daphne                     |
+| **Frontend**           | React, TypeScript, Tailwind CSS, Zustand, React-Query, Vite, Framer-Motion, MSW, Skeleton UI, Prettier, Eslint |
+| **Backend**            | Django, MySQL, Redis                                       |
 | **Web Server**         | Nginx                                                      |
 | **Asynchronous**       | Celery, Rabbitmq                                           |
-| **Database**           | AWS RDS, AWS S3 Bucket MySQL, Redis                        |
-| **AI**                 | AWS Comprehend, Dall-E 3                                    |
-| **Deployment**         | AWS EC2, Docker                                             |
+| **Database**           | AWS RDS, MySQL, Redis                                      |
+| **AI**                 | AWS Comprehend                                             |
+| **Deployment**         | AWS EC2, Docker                                            |
 | **API Test**           | Postman                                                    |
 | **API Documentation**  | Swagger                                                    |
-| **Others**             | Github, Notion, Zoom, Slack, Figma                         |
+| **Others**             | Github, Notion, Slack, Figma                               |
 
 
 
