@@ -65,9 +65,7 @@
 <p align="left">
 
 <!--회원가입 사진-->
-<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/daa97424-29d0-4fa5-a001-0cf6bfd19008">
-<!--로그인 사진-->
-<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/e53ae1be-a9a3-4ec1-9b7b-a65d958ae272">
+<img width="700" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/user.gif">
 <br>
 <br>
 
