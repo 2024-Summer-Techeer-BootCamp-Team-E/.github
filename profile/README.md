@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/0625341d-f4cf-4cf3-97db-9cdb500a32ce">
+  <img width="500" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main.png">
 </p>
 
 
@@ -24,7 +24,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/4771e632-9cdc-416e-a66d-1f1e2df694fa">
+            <img width="300" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main.png">
         </td>
         <td width="600" align="center">
             <div align="left">
