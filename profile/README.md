@@ -52,7 +52,16 @@
 
 ## 🌈 Feature
 
-### ☁️ 회원가입 및 로그인 ☁️ <br>
+### ☁️ 시작 화면 ☁️ <br>
+<p align="left">
+
+<!--온보딩 페이지-->
+<img width="700" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/onboarding.gif">
+
+<br>
+<br>
+
+###   회원가입 및 로그인 <br>
 <p align="left">
 
 <!--회원가입 사진-->
@@ -65,10 +74,8 @@
 
 ###   원하는 상품의 URL 입력하기
 - 원하는 상품의 URL을 입력하여 Aliexpress에서 같은 상품을 검색해보세요.
-<!--URL 입력창-->
-<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/ab6f0155-24dc-4bab-af69-e0d385ee81d7">
-<!--상품 검색 결과창-->
-<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/f1a9a578-c881-4598-9eea-745cff132fed">
+<!--URL 입력창, 결과창-->
+<img width="700" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/start.gif">
 <br>
 <br>
 
