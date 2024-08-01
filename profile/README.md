@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main.png">
+  <img width="500" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main2.png">
 </p>
 
 
@@ -24,7 +24,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main.png">
+            <img width="300" alt="image" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/main2.png">
         </td>
         <td width="600" align="center">
             <div align="left">
