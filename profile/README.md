@@ -101,7 +101,13 @@
 <img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/erd.png">
 </p>
 
-## 💻 Tech Stack
+## 💻 Monitoring
+<p align="left">
+<!--ELK 사진-->
+<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/elk.png">
+</p>
+
+##  Tech Stack
 
 <div align =center>
 
