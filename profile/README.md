@@ -92,7 +92,7 @@
 ## 🛠 ️System Architecture
 <p align="left">
 <!--시스템 아키텍처 사진-->
-<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/system_architecture.png">
+<img width="700" src="https://github.com/2024-Summer-Techeer-BootCamp-Team-E/.github/blob/main/images/system_architecture2.png">
 </p>
 
 ## 🔑 ERD
